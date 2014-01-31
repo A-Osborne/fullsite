@@ -15,6 +15,41 @@ body {
 	background-color: rgba(255,255,255,0.8);
 	padding: 25px;
 }
+header {
+	width: 100%;
+	float: left;
+	padding-bottom: 25px;
+}
+header h1 {
+	float: left;
+}
+header nav ul li {
+	display: inline;
+	margin: 0px 10px;
+}
+header nav {
+	float: right;
+}
+.left {
+	float: left;
+	margin-right: 10px;
+}
+.right {
+	float: right;
+	margin-left: 10px;
+}
+section {
+	width: 65%;
+	float: left;
+}
+aside {
+	width: 35%;
+	float: right;
+}
+footer {
+	width: 100%;
+	clear: both;
+}
 
 
 
